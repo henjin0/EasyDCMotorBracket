@@ -6,3 +6,6 @@
 - [20teeth crown gear 3mm hole](https://a.aliexpress.com/_m04t53t)
 - [36teeth crown gear 3mm hole(high torque)](https://a.aliexpress.com/_m0m38kP)
 - [2 x 72 shaft rod](https://www.yodobashi.com/product/100000001003794158/?gad1&gad2=g&gad3&gad4=452594516847&gad5=15698396484161472817&gad6&gclid=CjwKCAjw6fCCBhBNEiwAem5SO0y97WQgh6WhblMCNWUYFpkfGZipB0vIUv07aTfgdwXyQwpR3Q1BThoC1PAQAvD_BwE&xfr=pla&fbclid=IwAR2-p80RZ6pfD-fWzLtlPfXd966pRNO0-IOr12Z7Sfa3YLHacPgrouwI-1w)
+
+# LICENCE
+Please see [LICENCE](LICENSE).
