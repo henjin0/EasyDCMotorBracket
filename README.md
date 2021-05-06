@@ -13,5 +13,8 @@
 or
 - [MABUCHI FA-130RA motor](https://www.mabuchi-motor.co.jp/motorize/branch/motor/)
 
+<img src="https://github.com/henjin0/EasyDCMotorBracket/blob/main/FA-130RA_gearbox_front.jpg" width="200">
+<img src="https://github.com/henjin0/EasyDCMotorBracket/blob/main/FA-130RA_gearbox_rear.jpg" width="200">
+
 # LICENCE
 Please see [LICENCE](LICENSE).
