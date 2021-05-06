@@ -17,6 +17,7 @@ or
 
 <img src="https://github.com/henjin0/EasyDCMotorBracket/blob/main/FA-130RA_gearbox_front.jpg" width="200">
 <img src="https://github.com/henjin0/EasyDCMotorBracket/blob/main/FA-130RA_gearbox_rear.jpg" width="200">
+<img src="https://github.com/henjin0/EasyDCMotorBracket/blob/main/FA-130RA_gearbox_rear_2.jpg" width="200">
 
 # LICENCE
 Please see [LICENCE](LICENSE).
