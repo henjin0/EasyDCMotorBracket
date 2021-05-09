@@ -19,5 +19,9 @@ or
 <img src="https://github.com/henjin0/EasyDCMotorBracket/blob/main/FA-130RA_gearbox_rear.jpg" width="200">
 <img src="https://github.com/henjin0/EasyDCMotorBracket/blob/main/FA-130RA_gearbox_rear_2.jpg" width="200">
 
+## FA-130RA_TAMIYA_70239_No.239_Gearbox gear ratio
+(42T/8T)*(42T/12T)=18.375
+
+
 # LICENCE
 Please see [LICENCE](LICENSE).
